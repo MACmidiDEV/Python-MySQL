@@ -2,4 +2,7 @@
 
 ##  sudo mysql < Chinook_MySql_AutoIncrementPKs.sql
 
-## git rm -r --cached Chinook_MySql_AutoIncrementPKs.
+## git rm -r --cached Chinook_MySql_AutoIncrementPKs.sql
+
+##   git config --global user.name "Your Name"
+##   git config --global user.email you@example.com
